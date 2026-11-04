@@ -23,7 +23,7 @@ To play the miniatures edition, you will need:
 ## Victory Conditions
 
 ### Mutant Victory
-* The mutants win immediately if they establish sole control of the **Ad Astra Lab** with no living humans present, destroying the mechanism[cite: 4].
+* The mutants win immediately if they establish sole control of the **Tech Room** at the center of the map, with no living humans present, destroying the mechanism[cite: 4].
 
 ### Human Victory
 * The humans win by holding the **Ad Astra Lab** at the end of **Turn 10** (or at the end of **Turn 9** if Professor Mincey has occupied the lab continuously from Turn 6 through Turn 9)[cite: 3, 4].
