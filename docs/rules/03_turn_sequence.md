@@ -20,13 +20,11 @@ Each game round follows five distinct phases in strict order[cite: 3, 4]:
 
 ## Phase 2: Mutant Turn
 
-1. **Glow-and-Go Check:** Roll 1D6 for each Red "Extra Glowing" Mutant currently on the map[cite: 3, 4]:
-   * On a roll of **`1`**, the mutant undergoes a critical meltdown and is removed from play[cite: 3, 4].
-   * Any door or barricade smash test attempted in that specific area later this phase gains a **+1 die roll bonus**[cite: 4].
-2. **Smash! Tests:** Mutants attempt to break down closed doors or human barricades using the Smash! Matrix[cite: 3, 4].
+1. **Smash! Tests:** Mutants attempt to break down closed doors or human barricades using the Smash! Matrix[cite: 3, 4].
    * *Dual-Sided Exception:* If mutants occupy spaces on **both sides** of a door, the automated sensors malfunction and the door opens without a roll[cite: 3, 4].
-3. **Horde Movement:** Mutants move 1 area inward or shift between adjacent exterior staging zones[cite: 4].All mutants in one area can move together, or you can split them up and some can go in other areas.
-4. **Mark Contested Areas:** Mark every room or hallway containing both mutants and humans/bots for combat resolution[cite: 3, 4].
+   * The door is not considered smashed and resumes normal funcion.
+2. **Horde Movement:** Mutants move 1 area inside the science building or shift between adjacent exterior staging zones[cite: 4].All mutants in one area can move together, or you can split them up and some can go in other areas.
+3. **Mark Contested Areas:** Mark every room or hallway containing both mutants and humans/bots for combat resolution[cite: 3, 4].
 
 ---
 
@@ -35,6 +33,7 @@ Each game round follows five distinct phases in strict order[cite: 3, 4]:
 1. **Standard Movement:** Humans move 1 area[cite: 4]. Automatic internal doors open freely for humans and do not impede movement[cite: 3, 4]. Humans **cannot** pass through or smash barricades[cite: 4].
 2. **Buck's Blitz:** Any squad or individual moving with Leon "Buck" Bukaw may move up to **2 areas**, provided the first area entered is clear of mutants[cite: 3, 4]. Buck may lead any humans or robots that began the turn in his starting area or that he picks up along the first step[cite: 4].
 3. **Field Repairs:** Humans and GripBots eligible to repair robots roll against their repair target numbers on damaged friendly bots in their room[cite: 3, 4]. If successful the robot is brought back to full functionality.
+4. **Mark Contested Areas:** Mark every room or hallways containing both mutants and humans/bots for combat resolution[cite: 3, 4].
 
 ---
 
@@ -46,11 +45,13 @@ Each game round follows five distinct phases in strict order[cite: 3, 4]:
 4. **Resolution & Casualties:**
    * Attackers roll 1D6 + CV; Defenders roll 1D6 + CV[cite: 4].
    * Defeated mutants are removed from play[cite: 3, 4]. Defeated humans are shifted to the *Wounded* box[cite: 4, 10].
-   * Glowing (Red) mutants make a Glow-and-Go check.
+   * Glowing (Red) mutants make a Glow-and-Go check. Roll a die for each Glowing mutant. On a 1 the mutant explodes, a free door smash roll can be made and the mutant is removed from play.
 5. **Retreat & Wounded Recovery:**
    * After each round, unwounded humans or GripBots in reserve or adjacent rooms may drag wounded allies into an adjacent mutant-free area[cite: 3, 4].
    * If an area is forced to retreat and cannot hold all retreating figures, excess units are lost[cite: 4].
+   * Reserve elements can move up to vacant spots on the battle line.
 6. **Pressing the Advantage:**
+   * Takes place at the end of the 2nd round of combat, or the end of the first round if all opponents are eliminated.
    * If one battle line is cleared, the other side is victorious in this battle.
    * **Victorious Humans:** May choose to press forward into an adjacent area[cite: 3, 4].
    * **Victorious Mutants:** Receive an immediate free Smash! action against an adjoining door or barricade[cite: 3, 4].

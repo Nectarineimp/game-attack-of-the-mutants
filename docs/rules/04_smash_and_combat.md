@@ -5,13 +5,13 @@
 Standard automated science building doors open freely for humans and lock against mutants[cite: 3, 5]. To push inward, mutants must breach doors or human barricades during Phase 2 (or immediately after winning a combat)[cite: 3, 5].
 
 ### The Software Glitch Exception
-If mutants occupy areas on **both sides** of a door simultaneously, a logic loop in the sensor system causes the door to unlock and open freely[cite: 3, 5]. Mutants may pass through without testing[cite: 3, 5].
+If mutants occupy areas on **both sides** of a door simultaneously, a logic fault in the sensor system causes the door to unlock and open freely[cite: 3, 5]. Mutants may pass through without testing[cite: 3, 5].
 
 ### Glow-and-Go Detonation Bonus
-If an Extra Glowing (Red) Mutant rolled a `1` during the Glow-and-Go check in that area, it explodes and is removed[cite: 3, 5]. Any door or barricade smash test attempted in that specific area this turn receives a **+1 die modifier**[cite: 3].
+If an Extra Glowing (Red) Mutant rolled a `1` during the Glow-and-Go check in that area, it explodes and is removed[cite: 3, 5]. This generates a **free door smash check**[cite: 3].
 
 ### The Smash! Matrix
-Breaching requires testing with 1D6 based on the number of mutants assaulting the barrier[cite: 3]:
+Breaching requires testing with 1D6 based on the number of mutants assaulting the barrier (mutant mobs can be divided to work on different doors from the same room)[cite: 3]:
 
 | Number of Mutants | Roll Needed: Door | Roll Needed: Barricade |
 | :---: | :---: | :---: |
@@ -32,7 +32,7 @@ When Mutants and Humans occupy the same room or corridor, combat occurs[cite: 5]
 
 ### 1. The Tactical Combat Pad Setup
 The Combat Pad prevents crowded miniature scrums on the board and structures active lines[cite: 5, 12]:
-* **The Line:** A maximum of **3 combatants per side** may fight on the active front line per round[cite: 3]. There must always be at least 1 figure on each side’s front line[cite: 3, 5].
+* **The Battle Line:** A maximum of **3 combatants per side** may fight on the active front line per round[cite: 3]. There must always be at least 1 figure on each side’s front line[cite: 3, 5].
 * **Reserves:** Any additional units in the contested area remain off the line in their respective **Reserve Box**[cite: 3, 5, 12].
 * **Outnumbering Bonus:** If one side has more units on the active front line than the other (e.g., 3 vs. 1, or 2 vs. 1—not counting reserves), that side gains **+1 Combat Value (CV)** to its rolls[cite: 3, 5].
   * *GunBot Exception:* If a **GunBot™** is on the human front line, the mutants **never** receive the outnumbering bonus[cite: 5].

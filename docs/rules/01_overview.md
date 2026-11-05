@@ -14,8 +14,8 @@ To play the miniatures edition, you will need:
   * **Humans:** 3 Professors (Applewhite, Richardson, Mincey), 3 Teaching Assistants (Penny, Buck, Percy)[cite: 3, 4].
   * **Robots:** Semi-autonomous GunBots™ and GripBots™[cite: 3].
   * **Mutants:** Professor Julian Manbender, 5 Mutant Security Officers, 40 Red "Extra Glowing" Mutants, and 56 Green Standard Mutants[cite: 3, 4].
-* **Markers & Tokens:** 12 Barricades, smashed door counters, and combat condition markers[cite: 4].
-* **Cards & Dice:** The 10-turn Event Card Deck and a handful of standard six-sided dice (D6)[cite: 3, 4].
+* **Markers & Tokens:** 12 Barricades, smashed door counters, and combat location markers[cite: 4].
+* **Cards & Dice:** The Event Card Deck, Technology Advancement Deck, and a handful of standard six-sided dice (D6), one per person[cite: 3, 4].
 * **Tactical Combat Pad:** A staging pad dividing front line, reserves, and wounded casualties[cite: 3, 10].
 
 ---
@@ -23,8 +23,8 @@ To play the miniatures edition, you will need:
 ## Victory Conditions
 
 ### Mutant Victory
-* The mutants win immediately if they establish sole control of the **Tech Room** at the center of the map, with no living humans present, destroying the mechanism[cite: 4].
+* The mutants win immediately if they establish sole control of the **Tech Room** at the center of the map, with no living humans or functional robots present, destroying the mechanism[cite: 4].
 
 ### Human Victory
 * The humans win by holding the **Ad Astra Lab** at the end of **Turn 10** (or at the end of **Turn 9** if Professor Mincey has occupied the lab continuously from Turn 6 through Turn 9)[cite: 3, 4].
-* Holding the lab triggers the **Time Rift Assault**: all surviving humans and robots in the Ad Astra lab travel back to Dr. Julian Manbender's facility for a final showdown against Manbender and his 5 Mutant Campus Police[cite: 3, 4]. If Dr. Manbender is killed in this final battle, the time loop is broken and humanity is saved[cite: 3, 4]!
+* Holding the lab triggers the **Time Rift Assault**: all surviving humans and robots in the Ad Astra lab travel back to Dr. Julian Manbender's lab for a final showdown against Manbender and his 5 Mutant Campus Police[cite: 3, 4]. If Dr. Manbender is killed in this final battle, the time loop is broken and humanity is saved[cite: 3, 4]!
